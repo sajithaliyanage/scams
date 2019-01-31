@@ -10,3 +10,5 @@ export const ACCOUNT = '/account';
 export const ADMIN = '/admin';
 export const LOOKUP = '/lookup';
 export const PASSWORD_FORGET = '/pw-forget';
+export const USERS = '/users/:id';
+export const NOT_FOUND = '/no-results';

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { AuthUserContext } from '../Session';
-import {  MDBIcon,MDBBadge,MDBCardHeader,MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBAlert,MDBListGroup, MDBJumbotron, MDBContainer,Col, Fa, Row } from "mdbreact";
+import { MDBIcon,MDBBadge,MDBCardHeader,MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBAlert,MDBListGroup, MDBJumbotron, MDBContainer,Col, Fa, Row } from "mdbreact";
 import "./style.css";
 import {withFirebase} from "../Firebase";
 import {withRouter} from "react-router-dom";

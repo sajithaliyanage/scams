@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbacc7b-1509-4f9b-846a-1a69b0ae6178" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/Explorer/index.js" afterPath="$PROJECT_DIR$/src/components/Explorer/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/UserAccount/index.js" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/index.js" afterPath="$PROJECT_DIR$/src/components/App/index.js" />
       <change beforePath="$PROJECT_DIR$/src/components/Landing/index.js" afterPath="$PROJECT_DIR$/src/components/Landing/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/index.js" afterPath="$PROJECT_DIR$/src/components/Navigation/index.js" />
+      <change beforePath="$PROJECT_DIR$/src/constants/routes.js" afterPath="$PROJECT_DIR$/src/constants/routes.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,59 +19,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Landing/index.js">
+        <entry file="file://$PROJECT_DIR$/src/components/UserAccount/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="200" column="5" lean-forward="false" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
+            <state relative-caret-position="192">
+              <caret line="120" column="35" lean-forward="true" selection-start-line="120" selection-start-column="35" selection-end-line="120" selection-end-column="35" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <element signature="e#945#1018#0" expanded="false" />
-                <element signature="e#1088#2917#0" expanded="false" />
-                <element signature="e#2979#3535#0" expanded="false" />
-                <element signature="n#!!block;n#handleSubmit#0;n#SomeComponent#0" expanded="false" />
-                <element signature="n#!!block;n#handleUpVote#0;n#SomeComponent#0" expanded="false" />
-                <element signature="n#!!block;n#handleDownVote#0;n#SomeComponent#0" expanded="false" />
-                <element signature="e#6105#6687#0" expanded="false" />
-                <element signature="e#7795#8037#0" expanded="false" />
-                <element signature="e#8060#10261#0" expanded="false" />
-                <element signature="e#10310#10516#0" expanded="false" />
-                <element signature="n#ScamList#0" expanded="false" />
-                <element signature="n#!!block;n#constructor#0;n#ScamList#0" expanded="false" />
-                <element signature="n#!!block;n#componentWillReceiveProps#0;n#ScamList#0" expanded="false" />
-                <element signature="e#14655#16128#0" expanded="false" />
-                <element signature="e#16184#16358#0" expanded="false" />
-                <element signature="e#16369#16586#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Explorer/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-                <element signature="n#!!block;n#constructor#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="n#!!block;n#componentWillMount#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="n#!!block;n#componentDidMount#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="e#1084#1157#0" expanded="false" />
-                <element signature="e#1294#3057#0" expanded="false" />
-                <element signature="e#3186#3719#0" expanded="false" />
-                <element signature="n#!!block;n#componentWillUnmount#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="n#!!block;n#handleSubmit#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="n#!!block;n#handleUpVote#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="n#!!block;n#handleDownVote#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="e#6312#6894#0" expanded="false" />
-                <element signature="n#!!block;n#render#0;n#ExplorerInnerPage#0" expanded="false" />
-                <element signature="e#7940#11403#0" expanded="false" />
-                <element signature="n#ScamList#0" expanded="false" />
-                <element signature="n#!!block;n#constructor#0;n#ScamList#0" expanded="false" />
-                <element signature="n#!!block;n#componentWillReceiveProps#0;n#ScamList#0" expanded="false" />
-                <element signature="n#!!block;n#render#0;n#ScamList#0" expanded="false" />
-                <element signature="e#11711#16415#0" expanded="false" />
-                <element signature="e#16473#18134#0" expanded="false" />
+                <element signature="n#!!block;n#constructor#0;n#UserAccount#0" expanded="false" />
+                <element signature="n#!!block;n#componentWillMount#0;n#UserAccount#0" expanded="false" />
+                <element signature="n#!!block;n#componentDidMount#0;n#UserAccount#0" expanded="false" />
+                <element signature="e#1727#2270#0" expanded="false" />
+                <element signature="e#2378#2911#0" expanded="false" />
+                <element signature="n#!!block;n#componentWillUnmount#0;n#UserAccount#0" expanded="false" />
+                <element signature="e#3297#3837#0" expanded="false" />
+                <element signature="e#3324#3590#0" expanded="false" />
+                <element signature="e#3617#3801#0" expanded="false" />
+                <element signature="e#6165#7842#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -119,7 +85,6 @@
         <option value="$PROJECT_DIR$/src/components/Tagging/index.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Session/index.js" />
-        <option value="$PROJECT_DIR$/src/constants/routes.js" />
         <option value="$PROJECT_DIR$/src/components/VerifyEmail/index.js" />
         <option value="$PROJECT_DIR$/src/components/Session/withAuthentication.js" />
         <option value="$PROJECT_DIR$/src/components/Session/withAuthorization.js" />
@@ -128,7 +93,6 @@
         <option value="$PROJECT_DIR$/src/components/Page404/index.js" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/src/components/Footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/App/index.js" />
         <option value="$PROJECT_DIR$/src/components/SignUp/index.js" />
         <option value="$PROJECT_DIR$/src/components/Admin/index.js" />
         <option value="$PROJECT_DIR$/src/components/Session/withEmailVerification.js" />
@@ -137,8 +101,11 @@
         <option value="$PROJECT_DIR$/src/components/Account/index.js" />
         <option value="$PROJECT_DIR$/src/components/Landing/style.css" />
         <option value="$PROJECT_DIR$/src/components/Navigation/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Landing/index.js" />
         <option value="$PROJECT_DIR$/src/components/Explorer/index.js" />
+        <option value="$PROJECT_DIR$/src/components/App/index.js" />
+        <option value="$PROJECT_DIR$/src/constants/routes.js" />
+        <option value="$PROJECT_DIR$/src/components/Landing/index.js" />
+        <option value="$PROJECT_DIR$/src/components/UserAccount/index.js" />
       </list>
     </option>
   </component>
@@ -172,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,6 +149,11 @@
             <path>
               <item name="scams" type="b2602c69:ProjectViewProjectNode" />
               <item name="scams" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scams" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,12 +167,26 @@
               <item name="scams" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Explorer" type="462c0819:PsiDirectoryNode" />
+              <item name="Landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UserAccount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scams" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -212,16 +197,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../src" />
-      <recent name="$PROJECT_DIR$/" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/Page404" />
       <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/Page404" />
       <recent name="$PROJECT_DIR$/src/components/Session" />
       <recent name="$PROJECT_DIR$/src/components/Navigation" />
       <recent name="$PROJECT_DIR$/src/components/Tagging" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../src" />
+      <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,7 +258,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22575757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -298,26 +283,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../src/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SignOut/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -463,24 +433,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants/roles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="80" column="4" lean-forward="false" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -489,20 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="75" lean-forward="false" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Session/withAuthorization.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Session/withAuthentication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -528,28 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Page404/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Footer/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-            <element signature="e#538#576#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,19 +505,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Account/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,15 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Firebase/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="95" column="52" lean-forward="false" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,10 +579,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/roles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Account/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/cryptocurrency.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Explorer/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="110" column="27" lean-forward="false" selection-start-line="110" selection-start-column="27" selection-end-line="110" selection-end-column="27" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
             <element signature="n#!!block;n#constructor#0;n#ExplorerInnerPage#0" expanded="false" />
@@ -705,28 +629,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Session/withAuthentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Session/withAuthorization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Firebase/firebase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Page404/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#584#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Landing/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="200" column="5" lean-forward="false" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
+        <state relative-caret-position="-221">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#945#1018#0" expanded="false" />
-            <element signature="e#1088#2917#0" expanded="false" />
-            <element signature="e#2979#3535#0" expanded="false" />
+            <element signature="n#!!block;n#componentDidMount#0;n#SomeComponent#0" expanded="false" />
+            <element signature="e#944#1017#0" expanded="false" />
+            <element signature="e#1087#2916#0" expanded="false" />
+            <element signature="e#2978#3534#0" expanded="false" />
             <element signature="n#!!block;n#handleSubmit#0;n#SomeComponent#0" expanded="false" />
             <element signature="n#!!block;n#handleUpVote#0;n#SomeComponent#0" expanded="false" />
             <element signature="n#!!block;n#handleDownVote#0;n#SomeComponent#0" expanded="false" />
-            <element signature="e#6105#6687#0" expanded="false" />
-            <element signature="e#7795#8037#0" expanded="false" />
-            <element signature="e#8060#10261#0" expanded="false" />
-            <element signature="e#10310#10516#0" expanded="false" />
+            <element signature="e#6104#6686#0" expanded="false" />
+            <element signature="n#!!block;n#render#0;n#SomeComponent#0" expanded="false" />
+            <element signature="e#7794#8036#0" expanded="false" />
+            <element signature="e#8059#10260#0" expanded="false" />
+            <element signature="e#10309#10515#0" expanded="false" />
             <element signature="n#ScamList#0" expanded="false" />
             <element signature="n#!!block;n#constructor#0;n#ScamList#0" expanded="false" />
             <element signature="n#!!block;n#componentWillReceiveProps#0;n#ScamList#0" expanded="false" />
-            <element signature="e#14655#16128#0" expanded="false" />
-            <element signature="e#16184#16358#0" expanded="false" />
-            <element signature="e#16369#16586#0" expanded="false" />
+            <element signature="n#!!block;n#render#0;n#ScamList#0" expanded="false" />
+            <element signature="e#14654#16127#0" expanded="false" />
+            <element signature="e#16183#16357#0" expanded="false" />
+            <element signature="e#16368#16585#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UserAccount/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="120" column="35" lean-forward="true" selection-start-line="120" selection-start-column="35" selection-end-line="120" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#UserAccount#0" expanded="false" />
+            <element signature="n#!!block;n#componentWillMount#0;n#UserAccount#0" expanded="false" />
+            <element signature="n#!!block;n#componentDidMount#0;n#UserAccount#0" expanded="false" />
+            <element signature="e#1727#2270#0" expanded="false" />
+            <element signature="e#2378#2911#0" expanded="false" />
+            <element signature="n#!!block;n#componentWillUnmount#0;n#UserAccount#0" expanded="false" />
+            <element signature="e#3297#3837#0" expanded="false" />
+            <element signature="e#3324#3590#0" expanded="false" />
+            <element signature="e#3617#3801#0" expanded="false" />
+            <element signature="e#6165#7842#0" expanded="false" />
           </folding>
         </state>
       </provider>
